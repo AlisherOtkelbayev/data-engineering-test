@@ -1,6 +1,6 @@
 # data-engineering-test
 InBank task
-This file is a commentary on my hometask from Inbank.
+This is a commentary on my hometask from Inbank.
 This repository contains an SQL query for task 1(query_task1.sql) and 2 different python scripts for task 2(Inbank_task2_pandas.py & Inbank_task2_nopandas.py), along with files and other scripts that have been used in my work and testing.
 For task 1 I have used a slightly edited query provided in the github to populate the tables. Because MySQL has some differences from the original Snowflake syntaxis it was written in.
 The task 2 has been completed with 2 different python scripts - one with the use of pandas and one without pandas and only python standard libraries. This has been done since I’ve wanted to test the effectiveness of both approaches and measure the execution times to see which script would handle the task better.
@@ -17,4 +17,3 @@ Second - the date when the output file was generated fills the entire column for
 Third - the file structure is consistent in both input files.
 I would love to discuss this assignment and my solutions with you and answer any questions regarding it. Hope to see you at the interview!
 Thanks for your attention and have a nice day!
--Otkelbayev Alisher
