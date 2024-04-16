@@ -1,6 +1,7 @@
-# data-engineering-test
+# Data Engineering Test
 InBank task
-This is a commentary on my hometask from Inbank.
+
+This is a commentary on my hometask from InBank.
 
 This repository contains an SQL query for task 1(query_task1.sql) and 2 different python scripts for task 2(Inbank_task2_pandas.py & Inbank_task2_nopandas.py), along with files and other scripts that have been used in my work and testing.
 
